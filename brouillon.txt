@@ -1,0 +1,35 @@
+<div class="cadre1">
+                    <div class="sugg">
+                        <div class="sug"><p>Suggestion pour vous</p></div>
+                            <div class="duo"><img src="avatar1.png" alt="Avatar" class="avatar1"></div>
+                            <div class="duo"><img src="avatar1.png" alt="Avatar" class="avatar1"></div>
+                            <div class="duo"><img src="avatar1.png" alt="Avatar" class="avatar1"></div>
+                        </div>
+                        <div class="voir"><p>Voir tout</p>
+                            <div a href="#" class="abon">s'abonner</a></div> 
+                            <div a href="#" class="abon">s'abonner</a></div> 
+                            <div a href="#" class="abon">s'abonner</a></div> 
+                        </div> 
+                    </div>
+                </div>
+
+
+
+<div class="test">
+        <div class="tableau">
+            <div class="tab">
+                <div><img src="image1.png" alt="" class="mont"></div>
+                <div><img src="lac.png" alt=""  class="mont"></div>
+                <div><img src="pont.png" alt="" class="mont"></div>
+                <div><img src="so.png" alt="" class="mont"></div>
+                <div><img src="japon.png" alt="" class="mont"></div>
+                <div><img src="soir.png" alt="" class="mont"></td></div>
+                <div><img src="image1.png" alt="" class="mont"></div>
+                <div><img src="image1.png" alt="" class="mont"></div>
+                <div><img src="image1.png" alt="" class="mont"></div>
+                <div><img src="image1.png" alt="" class="mont"></div>
+                <div><img src="image1.png" alt="" class="mont"></div>
+                <div><img src="image1.png" alt="" class="mont"></div>
+            </div>
+        </div>
+        </div>
